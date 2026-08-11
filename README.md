@@ -2,83 +2,72 @@
 
 ### Full Stack Developer | MERN Stack Developer
 
-I'm a Full Stack Developer specializing in **React.js, Node.js, Express.js, and MongoDB**. I enjoy building production-ready web applications, developing REST APIs, and solving real-world problems through software.
+I'm a Full Stack Developer specializing in **React.js, Node.js, Express.js, and MongoDB**. I build production-ready web applications, REST APIs, and scalable solutions for real-world problems.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Redux Toolkit
-- Axios
+**Frontend:**
+HTML5 · CSS3 · JavaScript · React.js · Redux Toolkit · Axios
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Passport.js
-- Middleware
+**Backend:**
+Node.js · Express.js · REST APIs · JWT · Passport.js · Middleware
 
-### Database & Services
-- MongoDB
-- Firebase
-- Cloudinary
-- Stripe
+**Database & Services:**
+MongoDB · Firebase · Cloudinary · Stripe
 
-### AI & APIs
-- Groq AI
-- Google Maps API
+**AI & APIs:**
+Groq AI · Google Maps API
 
-### DevOps & Deployment
-- Docker
-- Nginx
-- Cloud Deployment
-
-### Tools
-- Git
-- GitHub
-- VS Code
+**DevOps & Tools:**
+Docker · Nginx · Git · GitHub · VS Code
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 MERN Job Portal
-Full-stack job portal with Recruiter & Candidate roles, job search, applications, authentication, and profile management.
+### 💼 [MERN Job Portal](https://github.com/adarshmulik10051-dev/mern-job-portal)
 
-**Tech:** MongoDB, Express.js, React.js, Redux Toolkit, Cloudinary, JWT
+Full-stack job portal with **Recruiter & Candidate roles**, job search, applications, authentication, and profile management.
 
-### 🔹 Community Hero
-AI-powered civic issue reporting platform with chatbot assistance, community feed, live maps, issue tracking, and media uploads.
+**Tech:** MongoDB · Express.js · React.js · Redux Toolkit · Cloudinary · JWT
 
-**Tech:** React.js, Firebase, Groq AI, Google Maps, Cloudinary, Docker, Nginx
+### 🤖 [Community Hero](https://github.com/adarshmulik10051-dev/community-hero)
 
-### 🔹 SwiftWheels
-Full-stack car rental booking platform with Admin & User roles, car management, time-slot booking, conflict detection, and online payments.
+AI-powered civic issue platform with **AI assistance, chatbot, live maps, community feed, and issue tracking**.
 
-**Tech:** MongoDB, Express.js, React.js, Passport.js, Stripe, Cloudinary
+**Tech:** React.js · Firebase · Groq AI · Google Maps · Cloudinary · Docker · Nginx
+
+### 🚗 [SwiftWheels](https://github.com/adarshmulik10051-dev/swiftwheels)
+
+Full-stack car rental platform with **Admin & User roles, time-slot booking, conflict detection, and online payments**.
+
+**Tech:** MongoDB · Express.js · React.js · Passport.js · Stripe · Cloudinary
 
 ---
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Advanced Backend Development
-- Docker & Deployment
-- System Design
-- TypeScript
+* Data Structures & Algorithms
+* Advanced Backend Development
+* System Design
+* TypeScript
+* Docker & Cloud Deployment
+
+---
+
+## 🎯 Career Focus
+
+Looking for opportunities to work as a **Full Stack / MERN Developer**, where I can build scalable applications and contribute to real-world software projects.
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Adarsh Mulik](http://www.linkedin.com/in/adarsh-ashok-mulik-7b3044296)
-- 🐙 GitHub: [Adarsh Mulik](https://github.com/adarshmulik10051-dev)
+💼 **LinkedIn:** [Adarsh Mulik](https://www.linkedin.com/in/adarsh-ashok-mulik-7b3044296)
+
+🐙 **GitHub:** [adarshmulik10051-dev](https://github.com/adarshmulik10051-dev)
 
 ---
 
